@@ -1,0 +1,3 @@
+docker-compose down  # Stop existing containers
+docker-compose build --no-cache  # Force rebuild without cache
+docker-compose up -d  # Start the services
