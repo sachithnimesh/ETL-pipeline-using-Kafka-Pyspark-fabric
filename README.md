@@ -24,6 +24,7 @@ Fabric task/
 ├── run method.txt              # Manual run instructions or steps
 ├── test.ipynb                  # Notebook for initial testing/debugging
 ├── upload_jsons_to_fabric.py   # Script to upload JSON data to Microsoft Fabric Lakehouse
+├── Ingest_data_from_Kafka_to_Local.py #ingest data from Kafka to Local
 ```
 
 ---
